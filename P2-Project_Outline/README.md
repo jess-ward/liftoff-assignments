@@ -34,4 +34,4 @@ Agile development methodology
 Trello
 
 Trello board link:
-https://trello.com/b/YuYPzSOz/liftoff-project
+https://trello.com/b/UF4mq3mF/liftoff-project-board
